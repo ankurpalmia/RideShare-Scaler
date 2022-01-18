@@ -1,0 +1,24 @@
+Driver
+    id
+    latitude, longitude
+
+
+Ride
+    id
+    driver
+    customer
+    start_time, end_time
+
+
+Customer
+    rides
+
+
+Vehicle
+    model
+
+
+Payment
+    status
+
+
